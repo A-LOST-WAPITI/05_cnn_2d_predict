@@ -1,0 +1,8 @@
+[element]
+property = [
+    "number",
+    "aiab", 
+    "atomic_mass", 
+    "xpos", 
+    "ypos", 
+]

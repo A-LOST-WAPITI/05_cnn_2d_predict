@@ -1,0 +1,10 @@
+# ignore all data file
+*.json
+*.jld2
+*.dat
+# ignore log dir
+**/runs
+# ignore nsys report
+*.nsys-rep
+# ignore report folder
+report/
